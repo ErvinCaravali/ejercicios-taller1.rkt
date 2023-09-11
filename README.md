@@ -1,4 +1,3 @@
-```markdown
 # Guía de Uso de Git
 
 Esta guía te ayudará a empezar con Git y a aprender los conceptos básicos para administrar tu código fuente.
@@ -20,12 +19,11 @@ Descarga e instala Git desde [https://git-scm.com/](https://git-scm.com/).
 
 ## Configuración Inicial
 
-Antes de comenzar, configura tu nombre de usuario y dirección de correo electrónico:
+Antes de comenzar, configura tu nombre de usuario y dirección de correo electrónico correctamente:
 
-```bash
+
 git config --global user.name "Tu Nombre"
 git config --global user.email "tu@email.com"
-```
 
 ## Comandos Básicos
 
